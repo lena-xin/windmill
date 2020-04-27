@@ -1,5 +1,5 @@
 #include "drawer.h"
-//盒子效果
+
 Drawer::Drawer(QWidget *parent,Qt::WindowFlags f)
     : QToolBox(parent,f)
 {
